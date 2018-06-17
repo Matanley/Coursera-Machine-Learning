@@ -15,3 +15,6 @@ For a number of assignments in the course you are instructed to create complete,
 
 ##### References:
 https://www.coursera.org/learn/machine-learning/home/welcome
+
+##### My Notes
+The orginal author of this repository provide excellent code for me to learn more about Andrew Ng's course. It is always a great pleasure in understanding these algorithms from the scratch. I manually coded these code and modified them to be my own coding style.
